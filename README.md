@@ -32,4 +32,4 @@ Our [discussion space](https://github.com/tetrane/reven-community/discussions) i
 
 ## Code of Conduct
 
-By participating in discussions in the [issue tracker](https://github.com/tetrane/reven-community/issues) or on its associated [discussion space](https://github.com/tetrane/reven-community/discussions), you agree to follow the guidelines of our [Code of Conduct]().
+By participating in discussions in the [issue tracker](https://github.com/tetrane/reven-community/issues) or on its associated [discussion space](https://github.com/tetrane/reven-community/discussions), you agree to follow the guidelines of our [Code of Conduct](https://github.com/tetrane/reven-community/blob/main/CODE_OF_CONDUCT.md).
